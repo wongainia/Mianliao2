@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Mianliao2.iml" filepath="$PROJECT_DIR$/Mianliao2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cocos2dx/cocos2dx.iml" filepath="$PROJECT_DIR$/cocos2dx/cocos2dx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pingplusplus/pingplusplus.iml" filepath="$PROJECT_DIR$/pingplusplus/pingplusplus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pulltorefresh/pulltorefresh.iml" filepath="$PROJECT_DIR$/pulltorefresh/pulltorefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/touchgallery/touchgallery.iml" filepath="$PROJECT_DIR$/touchgallery/touchgallery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tu/tu.iml" filepath="$PROJECT_DIR$/tu/tu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tusdk/tusdk.iml" filepath="$PROJECT_DIR$/tusdk/tusdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wheel/wheel.iml" filepath="$PROJECT_DIR$/wheel/wheel.iml" />
+    </modules>
+  </component>
+</project>
